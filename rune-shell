@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+TERM=vt100 bash -il |& runic.hy
