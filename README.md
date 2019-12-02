@@ -4,7 +4,7 @@ A more traditional way of navigating unix, it should support any VT100 escape se
 # example usage
 ```
 > rune-shell
-ᛈᛖᛏᛖᚱᛋ-ᛗᛒᛈ:ᚱᛋᚻ ᛈᛖᛏᛖᚱᚻᛖᚱᚾᛁᛗᚨᚾ$ ᚠᚩᚱ ᛁ ᛁᚾ `ᛋᛖᛣ 1 10`; ᛞᚩ ᛖᚳᚩ "ᛁᚾᛞᛖᛉ ᛁᛋ: $ᛁ"; ᛞᚩᚾᛖ
+ᛒᚨᛋᚻ-5.0$ ᚠᚩᚱ ᛁ ᛁᚾ `ᛋᛖᛣ 1 10`; ᛞᚩ ᛖᚳᚩ "ᛁᚾᛞᛖᛉ ᛁᛋ: $ᛁ"; ᛞᚩᚾᛖ
 ᛁᚾᛞᛖᛉ ᛁᛋ: 1
 ᛁᚾᛞᛖᛉ ᛁᛋ: 2
 ᛁᚾᛞᛖᛉ ᛁᛋ: 3
@@ -15,7 +15,7 @@ A more traditional way of navigating unix, it should support any VT100 escape se
 ᛁᚾᛞᛖᛉ ᛁᛋ: 8
 ᛁᚾᛞᛖᛉ ᛁᛋ: 9
 ᛁᚾᛞᛖᛉ ᛁᛋ: 10
-ᛈᛖᛏᛖᚱᛋ-ᛗᛒᛈ:ᚱᛋᚻ ᛈᛖᛏᛖᚱᚻᛖᚱᚾᛁᛗᚨᚾ$
+ᛒᚨᛋᚻ-5.0$
 ```
 
 # todo
